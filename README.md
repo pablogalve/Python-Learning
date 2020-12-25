@@ -8,13 +8,17 @@ You will find two folders:
 
 ## How to use
 ### Use an online compiler
-You could use [repl.it/](https://repl.it/) or any other online compiler.
+You could use [repl.it](https://repl.it/) or any other online compiler.
 
 ### Use your local compiler
 1.- Download the script you want to execute
+
 2.- Press Win+R
+
 3.- Type cmd /k
+
 4.- Then drag and drop the script to the run dialog
+
 5.- That's all! The code is now working!
 
 ## LICENSE
