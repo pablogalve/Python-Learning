@@ -21,6 +21,11 @@ You could use [repl.it](https://repl.it/) or any other online compiler.
 
 5.- That's all! The code is now working!
 
+## Do you want to contribute?
+Do you want to add new exercises/exams or fix anything?
+Fork this repository and submit your changes!
+Check out our [contributing guidelines](CONTRIBUTING.md).
+
 ## LICENSE
 MIT License
 
