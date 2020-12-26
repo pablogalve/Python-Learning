@@ -1,4 +1,4 @@
-# Exam Intructions
+# Exam Instructions
 
 ## Exercise 1
 Write a program that asks for a number and returns all its dividers.
