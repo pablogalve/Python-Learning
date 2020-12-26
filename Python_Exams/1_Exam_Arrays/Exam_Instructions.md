@@ -1,4 +1,4 @@
-# Exam Intructions
+# Exam Instructions
 
 ## Exercise 1
 Write a program that creates a list and lets the user add numbers to that list. 
